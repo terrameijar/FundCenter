@@ -1,0 +1,9 @@
+*.pyc
+settings.py
+.Python
+env
+bin
+lib
+include
+.DS_Store
+
